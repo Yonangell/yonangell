@@ -19,7 +19,7 @@
 
 ### Lenguajes y Herramientas
 
-<div align="center">
+<div align="left">
 
 <div align="left">
 
