@@ -19,7 +19,7 @@
 
 ### Lenguajes y Herramientas
 <p align="center">
-<img src="https://devicon-website.vercel.app/api/java/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/java/original.svg" width="40"/>
 
 </p>
 
