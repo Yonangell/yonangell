@@ -19,34 +19,25 @@
 
 ### Lenguajes y Herramientas
 
-<p align="left" display="grid">
-
-<div align="left" display="flex">
-
-**Programación:**
-<img src="https://devicon-website.vercel.app/api/java/original.svg" align="left" width="60"/>
-<img src="https://devicon-website.vercel.app/api/javascript/original.svg" align="left" width="60"/>
-<img src="https://devicon-website.vercel.app/api/php/original.svg" align="left" width="60"/>
-
-</div>
-
-<div align="left" display="flex">
-
-**Frontend:**
-<img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" align="left" width="60">
-<img src="https://devicon-website.vercel.app/api/css3/original.svg" align="left" width="60"/>
-<img src="https://devicon-website.vercel.app/api/html5/original.svg" align="left" width="60"/>
-<img src="https://devicon-website.vercel.app/api/sass/original.svg" align="left" width="60"/>
-<img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" align="left" width="60"/>
-<img src="https://devicon-website.vercel.app/api/wordpress/plain-wordmark.svg" align="left" width="60" />
-
-</div>
-
-<div align="left" display="flex">
-
-**Base de datos:**
-<img src="https://devicon-website.vercel.app/api/mysql/original.svg" align="left" width="60"/>
-
-</div>
-
+#### Programación
+<p align="left">
+  <img src="https://devicon-website.vercel.app/api/java/original.svg" width="60" alt="java" />
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="60" alt="js" />
+  <img src="https://devicon-website.vercel.app/api/php/original.svg" width="60" alt="php" />
 </p>
+
+#### Frontend
+<p align="left">
+  <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="60" alt="bootstrap" />
+  <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="60" alt="css3" />
+  <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="60" alt="html5" />
+  <img src="https://devicon-website.vercel.app/api/sass/original.svg" width="60" alt="sass" />
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" width="60" alt="tailwind" />
+  <img src="https://devicon-website.vercel.app/api/wordpress/plain-wordmark.svg" width="60" alt="wordpress" />
+</p>
+
+#### Base de datos
+<p align="left">
+  <img src="https://devicon-website.vercel.app/api/mysql/original.svg" width="60" alt="mysql" />
+</p>
+
