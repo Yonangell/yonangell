@@ -19,12 +19,12 @@
 
 ### Lenguajes y Herramientas
 
-<div align="left">
+<p align="left">
 
 <div align="left">
 
 **Programación:**
-<img src="https://devicon-website.vercel.app/api/java/original.svg" width="60"/>
+<img src="https://devicon-website.vercel.app/api/java/original.svg" align="left" width="60"/>
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="60"/>
 <img src="https://devicon-website.vercel.app/api/php/original.svg" width="60"/>
 
@@ -42,4 +42,4 @@
 
 </div>
 
-</div>
+</p>
