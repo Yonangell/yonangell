@@ -32,8 +32,8 @@
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="60" alt="css3" />
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="60" alt="html5" />
   <img src="https://devicon-website.vercel.app/api/sass/original.svg" width="60" alt="sass" />
-  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" width="60" alt="tailwind" />
-  <img src="https://devicon-website.vercel.app/api/wordpress/plain-wordmark.svg" width="60" alt="wordpress" />
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" width="60" alt="tailwind">
+  <img src="https://devicon-website.vercel.app/api/wordpress/original.svg" width="60" alt="wordpress" />
 </p>
 
 #### Base de datos
