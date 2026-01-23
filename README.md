@@ -19,7 +19,19 @@
 
 ### Lenguajes y Herramientas
 <p align="center">
-<img src="https://devicon-website.vercel.app/api/java/original.svg" width="40"/>
+
+**Programación:**
+<img src="https://devicon-website.vercel.app/api/java/original.svg" width="60"/>
+<img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="60"/>
+<img src="https://devicon-website.vercel.app/api/php/original.svg" width="60"/>
+
+**Frontend:**
+<img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="60">
+<img src="https://devicon-website.vercel.app/api/css3/original.svg" width="60"/>
+<img src="https://devicon-website.vercel.app/api/html5/original.svg" width="60"/>
+<img src="https://devicon-website.vercel.app/api/sass/original.svg" width="60"/>
+<img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" width="60"/>
+<img src="https://devicon-website.vercel.app/api/wordpress/plain-wordmark.svg" width="60" />
 
 </p>
 
