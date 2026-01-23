@@ -18,12 +18,19 @@
 ---
 
 ### Lenguajes y Herramientas
-<p align="center">
+
+<div align="center">
+
+<div align="left">
 
 **Programación:**
 <img src="https://devicon-website.vercel.app/api/java/original.svg" width="60"/>
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="60"/>
 <img src="https://devicon-website.vercel.app/api/php/original.svg" width="60"/>
+
+</div>
+
+<div align="left">
 
 **Frontend:**
 <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="60">
@@ -33,5 +40,6 @@
 <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" width="60"/>
 <img src="https://devicon-website.vercel.app/api/wordpress/plain-wordmark.svg" width="60" />
 
-</p>
+</div>
 
+</div>
