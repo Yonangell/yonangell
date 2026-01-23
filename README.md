@@ -19,9 +19,9 @@
 
 ### Lenguajes y Herramientas
 
-<p align="left">
+<p align="left" display="grid">
 
-<div align="left">
+<div align="left" display="flex">
 
 **Programación:**
 <img src="https://devicon-website.vercel.app/api/java/original.svg" align="left" width="60"/>
@@ -30,7 +30,7 @@
 
 </div>
 
-<div align="left">
+<div align="left" display="flex">
 
 **Frontend:**
 <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" align="left" width="60">
@@ -42,7 +42,7 @@
 
 </div>
 
-<div>
+<div align="left" display="flex">
 
 **Base de datos:**
 <img src="https://devicon-website.vercel.app/api/mysql/original.svg" align="left" width="60"/>
