@@ -25,20 +25,27 @@
 
 **Programación:**
 <img src="https://devicon-website.vercel.app/api/java/original.svg" align="left" width="60"/>
-<img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="60"/>
-<img src="https://devicon-website.vercel.app/api/php/original.svg" width="60"/>
+<img src="https://devicon-website.vercel.app/api/javascript/original.svg" align="left" width="60"/>
+<img src="https://devicon-website.vercel.app/api/php/original.svg" align="left" width="60"/>
 
 </div>
 
 <div align="left">
 
 **Frontend:**
-<img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="60">
-<img src="https://devicon-website.vercel.app/api/css3/original.svg" width="60"/>
-<img src="https://devicon-website.vercel.app/api/html5/original.svg" width="60"/>
-<img src="https://devicon-website.vercel.app/api/sass/original.svg" width="60"/>
-<img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" width="60"/>
-<img src="https://devicon-website.vercel.app/api/wordpress/plain-wordmark.svg" width="60" />
+<img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" align="left" width="60">
+<img src="https://devicon-website.vercel.app/api/css3/original.svg" align="left" width="60"/>
+<img src="https://devicon-website.vercel.app/api/html5/original.svg" align="left" width="60"/>
+<img src="https://devicon-website.vercel.app/api/sass/original.svg" align="left" width="60"/>
+<img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" align="left" width="60"/>
+<img src="https://devicon-website.vercel.app/api/wordpress/plain-wordmark.svg" align="left" width="60" />
+
+</div>
+
+<div>
+
+**Base de datos:**
+<img src="https://devicon-website.vercel.app/api/mysql/original.svg" align="left" width="60"/>
 
 </div>
 
