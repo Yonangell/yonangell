@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&letterSpacing=tracking-tight&pause=1000&color=7C3AED&width=435&lines=Yonangell+Guillen+-+Ingeniero+de+Sistemas+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&letterSpacing=tracking-tight&pause=1000&color=000000&width=435&lines=Hey!+soy+Yonangell+%F0%9F%91%8B;Desarrollador+Web+Full+Stack++%F0%9F%9A%80;Estamos+en+constante+crecimiento++%F0%9F%91%8A;%C2%A1Sin+actitud+no+hay+aptitud!+%E2%9C%8C%E2%9C%8C%E2%9C%8C)](https://git.io/typing-svg)
 
 <h1 align="center">Hola ✌, Soy Yonangell</h1>
 <h3 align="center">💡 Ingeniero de Sistemas | Futuro Desarrollador Web Full Stack 🚀</h3>
@@ -12,9 +12,9 @@
 ### 🌐 Conectate conmigo
 
 <div align="left">
-<a href="https://www.facebook.com/yonangelljoseg" target="_blank"><img alt="Discourse Status" src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=black&labelColor=blue"></a>
-<a href="https://www.instagram.com/yonangell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yonangell-guillen-038b41210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/yonangelljoseg" target="_blank"><img alt="Discourse Status" src="https://img.shields.io/badge/facebook-blue?style=plastic&logo=facebook&logoColor=white&logoSize=auto"></a>
+<a href="https://www.instagram.com/yonangell/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=plastic&logo=instagram&logoColor=white&logoSize=auto"/></a>
+<a href="https://www.linkedin.com/in/yonangell-guillen-038b41210/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=Linkedin&logoColor=white&logoSize=auto"/></a>
 </div>
 
 ---
