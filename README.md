@@ -12,7 +12,8 @@
 ### 🌐 Conectate conmigo
 
 <div align="left">
-<a href="https://www.facebook.com/yonangelljoseg" target="_blank"><img alt="Discourse Status" src="https://img.shields.io/discourse/status?server=facebook"></a>
+<a href="https://www.facebook.com/yonangelljoseg" target="_blank"><img alt="Discourse Status" src=https://img.shields.io/badge/%20facebook%2C1877F2
+></a>
 <a href="https://www.instagram.com/yonangell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yonangell-guillen-038b41210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 </div>
