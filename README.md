@@ -12,7 +12,7 @@
 ### 🌐 Conectate conmigo
 
 <div align="left">
-<a href="https://www.facebook.com/yonangelljoseg" target="_blank"><img alt="Discourse Status" src="https://img.shields.io/badge/facebook-blue?style=social&logo=facebook&logoColor=blue&labelColor=blue"></a>
+<a href="https://www.facebook.com/yonangelljoseg" target="_blank"><img alt="Discourse Status" src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=black&labelColor=blue"></a>
 <a href="https://www.instagram.com/yonangell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yonangell-guillen-038b41210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 </div>
@@ -50,6 +50,6 @@
 
 <p align="left">
 <img src="https://devicon-website.vercel.app/api/git/original.svg" width="60" alt="git"/>
-<img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23030707" width="60" alt="github"/>
+<img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23010204" width="60" alt="github"/>
 
 </p>
