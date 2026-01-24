@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&letterSpacing=tracking-tight&pause=1000&color=000000&width=435&lines=Hey!+soy+Yonangell+%F0%9F%91%8B;Desarrollador+Web+Full+Stack++%F0%9F%9A%80;Estamos+en+constante+crecimiento++%F0%9F%91%8A;%C2%A1Sin+actitud+no+hay+aptitud!+%E2%9C%8C%E2%9C%8C%E2%9C%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&letterSpacing=tracking-tight&pause=1000&color=007BFF&width=435&lines=Hey!+soy+Yonangell+%F0%9F%91%8B;Desarrollador+Web+Full+Stack++%F0%9F%9A%80;Estamos+en+constante+crecimiento++%F0%9F%91%8A;%C2%A1Sin+actitud+no+hay+aptitud!+%E2%9C%8C%E2%9C%8C%E2%9C%8C)](https://git.io/typing-svg)
 
 <h1 align="center">Hola ✌, Soy Yonangell</h1>
 <h3 align="center">💡 Ingeniero de Sistemas | Futuro Desarrollador Web Full Stack 🚀</h3>
