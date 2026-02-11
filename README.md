@@ -39,6 +39,7 @@
   <img src="https://devicon-website.vercel.app/api/sass/original.svg" width="60" alt="sass" />
   <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" width="60" alt="tailwind">
   <img src="https://devicon-website.vercel.app/api/wordpress/original.svg" width="60" alt="wordpress" />
+  <img src="https://devicon-website.vercel.app/api/nextjs/original.svg" width="60" alt = "nextjs" />
 </p>
 
 #### Base de datos
