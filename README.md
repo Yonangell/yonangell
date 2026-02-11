@@ -7,6 +7,8 @@
 
 <p align="center"><img align="center" alt="codificacion" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/></p>
 
+<p align="center"><img align="center" alt="codificacion" width="300" src="https://cdn.dribbble.com/userupload/21436989/file/original-55c8e5b6e371a02a386655c53b4908f6.gif"/></p>
+
 ---
 
 ### 🌐 Conectate conmigo
