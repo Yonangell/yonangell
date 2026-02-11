@@ -5,9 +5,11 @@
 
 ---
 
-<p align="center"><img align="left" alt="codificacion" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/></p>
+<p align="center">
+<img align="left" alt="codificacion" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
-<p align="center"><img align="right" alt="codificacion" width="300" src="https://cdn.dribbble.com/userupload/21436989/file/original-55c8e5b6e371a02a386655c53b4908f6.gif"/></p>
+<img align="right" alt="codificacion" width="300" src="https://cdn.dribbble.com/userupload/21436989/file/original-55c8e5b6e371a02a386655c53b4908f6.gif"/>
+</p>
 
 ---
 
