@@ -5,19 +5,15 @@
 
 ---
 
-<p align="center">
-  <table align="center" border="0">
-    <tr>
-      <td>
-        <img alt="codificacion" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
-      </td>
-      <td width="20"></td> 
-      <td>
-        <img alt="codificacion" width="300" src="https://cdn.dribbble.com/userupload/21436989/file/original-55c8e5b6e371a02a386655c53b4908f6.gif"/>
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <img alt="codificacion" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
+  </div>
+  
+  <div style="display: inline-block; margin: 10px;">
+    <img alt="codificacion" width="300" src="https://cdn.dribbble.com/userupload/21436989/file/original-55c8e5b6e371a02a386655c53b4908f6.gif"/>
+  </div>
+</div>
 <br clear="all" />
 
 ---
