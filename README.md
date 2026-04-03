@@ -36,6 +36,7 @@
 <p align="left">
   <img src="https://devicon-website.vercel.app/api/java/original.svg" width="60" alt="java" />
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="60" alt="js" />
+  <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" width="60" alt="python" />
   <img src="https://devicon-website.vercel.app/api/php/original.svg" width="60" alt="php" />
 </p>
 
