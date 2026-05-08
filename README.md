@@ -38,7 +38,7 @@
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="60" alt="js" />
   <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" width="60" alt="python" />
   <img src="https://devicon-website.vercel.app/api/php/original.svg" width="60" alt="php" />
-  <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg" width="60" alt="flask"></img>
+  <img src="https://devicon-website.vercel.app/api/flask/original.svg" width="60" alt="flask"></img>
 </p>
 
 #### Frontend
