@@ -39,6 +39,8 @@
   <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" width="60" alt="python" />
   <img src="https://devicon-website.vercel.app/api/php/original.svg" width="60" alt="php" />
   <img src="https://devicon-website.vercel.app/api/flask/original.svg" width="60" alt="flask"></img>
+  <img src="https://devicon-website.vercel.app/api/amazonwebservices/original-wordmark.svg" width="60" alt="amazon web server"></img>
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="60" alt="typescript"></img>
 </p>
 
 #### Frontend
@@ -57,6 +59,7 @@
 
 <p align="left">
   <img src="https://devicon-website.vercel.app/api/mysql/original.svg" width="60" alt="mysql" />
+  <img src="https://devicon-website.vercel.app/api/mongodb/original-wordmark.svg" width="60" alt="mongo DB"></img>
 </p>
 
 #### Herramientas
