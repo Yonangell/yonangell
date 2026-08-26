@@ -41,6 +41,8 @@
   <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg" width="60" alt="flask"></img>
   <img src="https://devicon-website.vercel.app/api/amazonwebservices/plain-wordmark.svg" width="60" alt="amazon web server"></img>
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="60" alt="typescript"></img>
+  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" width="60" alt="nodejs"></img>
+
 </p>
 
 #### Frontend
